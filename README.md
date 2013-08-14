@@ -8,7 +8,7 @@ Adds elapsed time functionality to ruby Time objects
 ```
 ## Usage
 ```
-  require 'time-alapsed'
+  require 'time-elapsed'
 ```
 ##  Examples
 ```

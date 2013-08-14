@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['kcen']
   spec.description   = %q{Adds elapsed time functionality to rubys time}
   spec.summary       = %q{Adds elapsed time functionality to rubys time}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/kcen/time-elapsed'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
