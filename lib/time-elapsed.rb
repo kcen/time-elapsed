@@ -1,0 +1,1 @@
+require File.expand_path('../time/elapsed.rb', __FILE__)
